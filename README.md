@@ -24,3 +24,17 @@
 <a href="https://github.com/mar-heaven/mar-heaven">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-heaven&theme=dark&layout=compact" alt="Most Used Languages" />
 </a>
+
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="#">
+    <img title="🔥 Streak stats" alt="Ginta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mar-heaven&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+## 💻 Last month's activity
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href=""><img alt="Ginta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mar-heaven&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>

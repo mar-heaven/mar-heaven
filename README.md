@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ginta</h1>
 
 - 📝 I regulary write articles on [https://www.ginta.top](https://www.ginta.top)
-- 🔭 I’m currently working in Ricequant (Shenzhen, China).
+- 🔭 I’m currently working in 深圳市观麦网络科技有限公司 (Shenzhen, China).
 - 🌱 I’m currently learning kubernetes, Helm.
 - ⚡ Fun fact: Hiking, Guitar.
 

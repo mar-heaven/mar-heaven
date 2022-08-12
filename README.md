@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ginta</h1>
 
-- 📝 I regulary write articles on [https://www.ginta.top](https://www.ginta.top)
+- 📝 I regulary write articles on [https://ginta.top](https://ginta.top)
 - 📕 [My reading list](https://atlantic-gull-726.notion.site/658a3e55b3bd4ca3b212beb7438a5c5e).
 - 🔭 I’m currently working in 深圳市观麦网络科技有限公司 (Shenzhen, China).
 - 🌱 I’m currently learning kubernetes, Helm.

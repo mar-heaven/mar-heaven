@@ -42,4 +42,12 @@
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+
+```text
+From: 26 January 2021 - To: 21 August 2022
+
+Python             781 hrs 53 mins >>>>>>>>>>>>>>>>>>>>>----   85.40 %
+Other              38 hrs 15 mins  >------------------------   04.18 %
+```
+
 <!--END_SECTION:waka-->

@@ -44,7 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 August 2022 - To: 22 August 2022
+
+Go                4 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>-----   78.16 %
+protobuf          16 mins         >------------------------   04.97 %
+YAML              16 mins         >------------------------   04.91 %
+Protocol Buffer   15 mins         >------------------------   04.80 %
+Docker            10 mins         >------------------------   03.34 %
+Markdown          9 mins          >------------------------   02.90 %
 ```
 
 <!--END_SECTION:waka-->

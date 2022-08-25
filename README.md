@@ -2,8 +2,8 @@
 
 - 📝 I regulary write articles on [https://ginta.top](https://ginta.top)
 - 📕 [My reading list](https://atlantic-gull-726.notion.site/658a3e55b3bd4ca3b212beb7438a5c5e).
-- 🔭 I’m currently working in 深圳市观麦网络科技有限公司 (Shenzhen, China).
-- 🌱 I’m currently learning kubernetes, Helm.
+- 🌱 I’m currently learning Blockchain, Web3.
+- 📧 Contacting me: [775650117@qq.com](775650117@qq.com)
 - ⚡ Fun fact: Hiking, Guitar.
 
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)

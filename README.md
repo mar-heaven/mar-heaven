@@ -44,14 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
-Go                14 hrs 33 mins  >>>>>>>>>>>>>>>>>>>------   74.47 %
-Markdown          1 hr 45 mins    >>-----------------------   09.03 %
-Protocol Buffer   1 hr 29 mins    >>-----------------------   07.64 %
-protobuf          36 mins         >------------------------   03.10 %
-YAML              27 mins         >------------------------   02.32 %
-TypeScript        13 mins         -------------------------   01.15 %
+Go                16 hrs 10 mins  >>>>>>>>>>>>>>>>>>>------   76.04 %
+Markdown          1 hr 46 mins    >>-----------------------   08.36 %
+Protocol Buffer   1 hr 29 mins    >>-----------------------   07.02 %
+protobuf          36 mins         >------------------------   02.85 %
+YAML              32 mins         >------------------------   02.52 %
+TypeScript        13 mins         -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->

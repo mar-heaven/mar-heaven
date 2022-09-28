@@ -45,7 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 September 2022 - To: 27 September 2022
+
+Go                14 hrs 5 mins   >>>>>>>>>>>>>>>>>>-------   73.38 %
+Protocol Buffer   1 hr 44 mins    >>-----------------------   09.10 %
+protobuf          1 hr 20 mins    >>-----------------------   07.01 %
+Markdown          55 mins         >------------------------   04.80 %
+Text              29 mins         >------------------------   02.57 %
+Bash              16 mins         -------------------------   01.46 %
 ```
 
 <!--END_SECTION:waka-->

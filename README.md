@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 Go                2 hrs 14 mins   >>>>>>>>>>>>>>>>>>>------   76.93 %
 Markdown          24 mins         >>>>---------------------   14.06 %

@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
-Go                5 hrs 58 mins   >>>>>>>>>>>>>>>>>>>------   76.22 %
-Protocol Buffer   42 mins         >>-----------------------   09.01 %
-Markdown          28 mins         >>-----------------------   06.08 %
-Text              25 mins         >------------------------   05.45 %
-protobuf          14 mins         >------------------------   03.12 %
-Cheetah           0 secs          -------------------------   00.06 %
+Go                3 hrs 31 mins   >>>>>>>>>>>>>>>>---------   65.98 %
+Protocol Buffer   41 mins         >>>----------------------   13.06 %
+Markdown          27 mins         >>-----------------------   08.58 %
+Text              25 mins         >>-----------------------   08.01 %
+protobuf          13 mins         >------------------------   04.22 %
+Cheetah           0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->

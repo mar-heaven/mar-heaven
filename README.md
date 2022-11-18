@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
-Go                12 hrs 15 mins  >>>>>>>>>>>>>>>>>>-------   72.36 %
-Markdown          2 hrs 13 mins   >>>----------------------   13.14 %
-Protocol Buffer   1 hr 15 mins    >>-----------------------   07.47 %
-Text              40 mins         >------------------------   03.94 %
-protobuf          24 mins         >------------------------   02.36 %
-YAML              7 mins          -------------------------   00.71 %
+Go                9 hrs 41 mins   >>>>>>>>>>>>>>>>---------   65.82 %
+Markdown          2 hrs 37 mins   >>>>---------------------   17.83 %
+Protocol Buffer   1 hr 10 mins    >>-----------------------   08.00 %
+Text              40 mins         >------------------------   04.57 %
+protobuf          25 mins         >------------------------   02.87 %
+YAML              7 mins          -------------------------   00.81 %
 ```
 
 <!--END_SECTION:waka-->

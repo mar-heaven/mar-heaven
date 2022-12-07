@@ -45,12 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 05 December 2022
-
-Go                1 hr 36 mins    >>>>>>>>>>>>-------------   49.65 %
-Markdown          1 hr 34 mins    >>>>>>>>>>>>-------------   48.68 %
-Protocol Buffer   3 mins          -------------------------   01.64 %
-protobuf          0 secs          -------------------------   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

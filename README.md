@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Go                11 hrs 28 mins  >>>>>>>>>>>>-------------   48.32 %
-JavaScript        2 hrs 30 mins   >>>----------------------   10.59 %
-Vue.js            2 hrs 15 mins   >>-----------------------   09.52 %
-protobuf          2 hrs 12 mins   >>-----------------------   09.29 %
-Protocol Buffer   2 hrs 9 mins    >>-----------------------   09.06 %
-Markdown          1 hr 34 mins    >>-----------------------   06.67 %
+Go                10 hrs 7 mins   >>>>>>>>>>>--------------   43.42 %
+Vue.js            2 hrs 36 mins   >>>----------------------   11.15 %
+JavaScript        2 hrs 30 mins   >>>----------------------   10.78 %
+Protocol Buffer   2 hrs 11 mins   >>-----------------------   09.41 %
+protobuf          2 hrs 6 mins    >>-----------------------   09.03 %
+Markdown          1 hr 34 mins    >>-----------------------   06.78 %
 ```
 
 <!--END_SECTION:waka-->

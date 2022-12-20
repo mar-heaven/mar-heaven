@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 December 2022 - To: 18 December 2022
+From: 12 December 2022 - To: 19 December 2022
 
-Go                         7 hrs 2 mins    >>>>>>>>>>>>>>-----------   57.13 %
-Vue.js                     1 hr 51 mins    >>>>---------------------   15.10 %
-Protocol Buffer            55 mins         >>-----------------------   07.51 %
-YAML                       49 mins         >>-----------------------   06.70 %
-Docker                     21 mins         >------------------------   02.93 %
-protobuf                   20 mins         >------------------------   02.83 %
+Go                         4 hrs 51 mins   >>>>>>>>>>>--------------   44.96 %
+Vue.js                     1 hr 31 mins    >>>>---------------------   14.06 %
+Python                     1 hr 11 mins    >>>----------------------   11.02 %
+Protocol Buffer            52 mins         >>-----------------------   08.15 %
+YAML                       43 mins         >>-----------------------   06.75 %
+Markdown                   33 mins         >------------------------   05.10 %
 ```
 
 <!--END_SECTION:waka-->

@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Go                 12 hrs 9 mins   >>>>>>>>>>>>>------------   53.37 %
-Python             7 hrs 2 mins    >>>>>>>>-----------------   30.92 %
-Markdown           52 mins         >------------------------   03.84 %
-Protocol Buffer    47 mins         >------------------------   03.47 %
-protobuf           46 mins         >------------------------   03.40 %
-requirements.txt   18 mins         -------------------------   01.37 %
+Python             8 hrs 19 mins   >>>>>>>>>>>--------------   44.24 %
+Go                 7 hrs 27 mins   >>>>>>>>>>---------------   39.63 %
+Markdown           52 mins         >------------------------   04.64 %
+Protocol Buffer    33 mins         >------------------------   02.97 %
+protobuf           27 mins         >------------------------   02.47 %
+requirements.txt   18 mins         -------------------------   01.65 %
 ```
 
 <!--END_SECTION:waka-->

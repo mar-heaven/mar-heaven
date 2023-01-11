@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 09 January 2023
+From: 03 January 2023 - To: 10 January 2023
 
-Go                4 hrs 4 mins    >>>>>>>>-----------------   31.86 %
-Python            4 hrs 2 mins    >>>>>>>>-----------------   31.68 %
-Markdown          3 hrs 14 mins   >>>>>>-------------------   25.36 %
-Protocol Buffer   44 mins         >------------------------   05.75 %
-protobuf          18 mins         >------------------------   02.43 %
-Text              18 mins         >------------------------   02.43 %
+Go                4 hrs 4 mins    >>>>>>>>>>>--------------   45.36 %
+Python            1 hr 53 mins    >>>>>--------------------   21.07 %
+Markdown          1 hr 36 mins    >>>>---------------------   17.85 %
+Protocol Buffer   44 mins         >>-----------------------   08.19 %
+protobuf          18 mins         >------------------------   03.46 %
+Text              18 mins         >------------------------   03.46 %
 ```
 
 <!--END_SECTION:waka-->

@@ -45,11 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 18 January 2023
-
-Markdown          44 mins         >>>>>>>>>>>>>>>>>>-------   70.41 %
-Protocol Buffer   16 mins         >>>>>>>------------------   26.47 %
-HTML              1 min           >------------------------   03.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

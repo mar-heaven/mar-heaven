@@ -45,7 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 January 2023 - To: 22 January 2023
+
+Markdown             56 mins         >>>>>>>>>>>>>>>>---------   65.93 %
+Go                   28 mins         >>>>>>>>-----------------   33.66 %
+Protocol Buffer      0 secs          -------------------------   00.33 %
+x86 Plan9 Assembly   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->

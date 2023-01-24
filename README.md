@@ -45,12 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-Markdown             56 mins         >>>>>>>>>>>>>>>>---------   65.93 %
-Go                   28 mins         >>>>>>>>-----------------   33.66 %
-Protocol Buffer      0 secs          -------------------------   00.33 %
-x86 Plan9 Assembly   0 secs          -------------------------   00.09 %
+Go                   2 hrs 24 mins   >>>>>>>>>>>>>>>>>--------   69.14 %
+Markdown             56 mins         >>>>>>>------------------   27.08 %
+protobuf             3 mins          -------------------------   01.89 %
+JSON                 3 mins          -------------------------   01.59 %
+Protocol Buffer      0 secs          -------------------------   00.22 %
+textmate             0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->

@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Go                3 hrs 20 mins   >>>>>>>>>>>>>------------   52.80 %
-Protocol Buffer   1 hr 22 mins    >>>>>--------------------   21.70 %
-Markdown          56 mins         >>>>---------------------   14.89 %
-protobuf          28 mins         >>-----------------------   07.63 %
-Text              6 mins          -------------------------   01.60 %
-GitIgnore file    4 mins          -------------------------   01.29 %
+Go                5 hrs 16 mins   >>>>>>>>>>>>>>-----------   55.15 %
+Markdown          1 hr 48 mins    >>>>>--------------------   18.95 %
+Protocol Buffer   1 hr 27 mins    >>>>---------------------   15.20 %
+protobuf          37 mins         >>-----------------------   06.58 %
+YAML              11 mins         >------------------------   02.03 %
+Text              6 mins          -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->

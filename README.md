@@ -45,13 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-Markdown     3 mins          >>>>>>>>>>>>>>>>>>-------   72.77 %
-JavaScript   0 secs          >>>>---------------------   15.12 %
-JSON         0 secs          >>-----------------------   06.56 %
-TypeScript   0 secs          >------------------------   03.45 %
-HTML         0 secs          >------------------------   02.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

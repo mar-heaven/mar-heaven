@@ -3,7 +3,7 @@
 - 📝 I regulary write articles on [https://ginta.top](https://ginta.top)
 - 📕 [My reading list](https://atlantic-gull-726.notion.site/658a3e55b3bd4ca3b212beb7438a5c5e).
 - 🏃‍♂️ [My running records](https://running.ginta.top/).
-- 🌱 I’m currently learning DEFI,Bot.
+- 🌱 I’m currently learning DEFI, Bot.
 - 📧 Contacting me: Nzc1NjUwMTE3QHFxLmNvbQo=
 - ⚡ Fun fact: Hiking, Guitar.
 

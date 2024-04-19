@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
-Go                12 hrs 57 mins  >>>>>>>>>>>>>>>>>>>------   76.69 %
-Protocol Buffer   1 hr 45 mins    >>>----------------------   10.45 %
-Markdown          1 hr 10 mins    >>-----------------------   06.94 %
-Python            35 mins         >------------------------   03.49 %
-YAML              10 mins         -------------------------   01.08 %
+Go                11 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>----   82.68 %
+Markdown          1 hr 10 mins    >>-----------------------   08.20 %
+Protocol Buffer   38 mins         >------------------------   04.48 %
+Python            23 mins         >------------------------   02.79 %
+Other             7 mins          -------------------------   00.88 %
 ```
 
 <!--END_SECTION:waka-->

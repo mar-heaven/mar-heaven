@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
 Go           1 hr 52 mins    >>>>>>>>>>>>>------------   51.29 %
 Python       1 hr 24 mins    >>>>>>>>>>---------------   38.60 %

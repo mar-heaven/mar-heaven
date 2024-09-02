@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-Go                23 hrs 40 mins  >>>>>>>>>>>>>>>>>>>------   75.64 %
-Protocol Buffer   1 hr 49 mins    >------------------------   05.82 %
-YAML              1 hr 39 mins    >------------------------   05.29 %
-Text              57 mins         >------------------------   03.07 %
-SQL               39 mins         >------------------------   02.08 %
+Go                20 hrs 20 mins  >>>>>>>>>>>>>>>----------   60.69 %
+Other             7 hrs 15 mins   >>>>>--------------------   21.63 %
+Protocol Buffer   1 hr 49 mins    >------------------------   05.42 %
+YAML              1 hr 5 mins     >------------------------   03.25 %
+SQL               39 mins         -------------------------   01.94 %
 ```
 
 <!--END_SECTION:waka-->

@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-Go                13 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>-----   80.83 %
-Protocol Buffer   1 hr 54 mins    >>>----------------------   11.80 %
-Python            26 mins         >------------------------   02.73 %
-Text              23 mins         >------------------------   02.41 %
-TypeScript        12 mins         -------------------------   01.33 %
+Go                 11 hrs          >>>>>>>>>>>>>>>>>>-------   71.14 %
+Python             2 hrs 35 mins   >>>>---------------------   16.76 %
+Protocol Buffer    1 hr            >>-----------------------   06.51 %
+Text               23 mins         >------------------------   02.51 %
+textmate           17 mins         -------------------------   01.84 %
 ```
 
 <!--END_SECTION:waka-->

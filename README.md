@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Go                   19 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.74 %
-textmate             22 mins         -------------------------   01.81 %
-Python               22 mins         -------------------------   01.79 %
-TypeScript           15 mins         -------------------------   01.23 %
-Text                 10 mins         -------------------------   00.82 %
+Go                16 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.32 %
+YAML              1 min           -------------------------   00.20 %
+GitIgnore file    1 min           -------------------------   00.18 %
+Protocol Buffer   1 min           -------------------------   00.10 %
+Python            0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->

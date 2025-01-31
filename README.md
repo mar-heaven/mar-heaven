@@ -45,12 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2025 - To: 29 January 2025
+From: 23 January 2025 - To: 30 January 2025
 
-Go         2 hrs 17 mins   >>>>>>>>>>>>>>>>>>>------   77.14 %
-SQL        23 mins         >>>----------------------   13.46 %
-textmate   15 mins         >>-----------------------   08.92 %
-Text       0 secs          -------------------------   00.49 %
+Go    31 mins         >>>>>>>>>>>>>>>----------   58.98 %
+SQL   21 mins         >>>>>>>>>>---------------   41.02 %
 ```
 
 <!--END_SECTION:waka-->

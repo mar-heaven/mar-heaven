@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Go                10 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>-----   80.68 %
-Python            1 hr 11 mins    >>-----------------------   09.44 %
-Text              41 mins         >------------------------   05.44 %
-ReST              11 mins         -------------------------   01.47 %
-JavaScript        7 mins          -------------------------   00.93 %
+Go                9 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>-----   81.04 %
+Python            1 hr 11 mins    >>-----------------------   09.84 %
+Text              39 mins         >------------------------   05.40 %
+ReST              11 mins         -------------------------   01.53 %
+JavaScript        6 mins          -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->

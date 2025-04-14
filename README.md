@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
 Go               2 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.64 %
 SQL              14 mins         >>-----------------------   09.09 %

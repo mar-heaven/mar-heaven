@@ -45,12 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Go               2 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.64 %
-SQL              14 mins         >>-----------------------   09.09 %
-YAML             0 secs          -------------------------   00.26 %
-GitIgnore file   0 secs          -------------------------   00.01 %
+Go    12 mins         >>>>>>>>>>>>>>>>>>>>>>---   88.57 %
+SQL   1 min           >>>----------------------   11.43 %
 ```
 
 <!--END_SECTION:waka-->

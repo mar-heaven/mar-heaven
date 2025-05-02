@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
-Go           1 hr 13 mins    >>>>>>>>>>>>>>>>>>>>>----   82.25 %
-JavaScript   10 mins         >>>----------------------   11.47 %
-TypeScript   2 mins          >------------------------   02.95 %
-Solidity     2 mins          >------------------------   02.57 %
-JSON         0 secs          -------------------------   00.77 %
+JavaScript   10 mins         >>>>>>>>>----------------   35.04 %
+Markdown     7 mins          >>>>>>-------------------   25.04 %
+YAML         4 mins          >>>>---------------------   17.13 %
+TypeScript   2 mins          >>-----------------------   09.01 %
+Solidity     2 mins          >>-----------------------   08.55 %
 ```
 
 <!--END_SECTION:waka-->

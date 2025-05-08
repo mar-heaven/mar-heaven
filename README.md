@@ -45,13 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-JavaScript   10 mins         >>>>>>>>>----------------   35.04 %
-Markdown     7 mins          >>>>>>-------------------   25.04 %
-YAML         4 mins          >>>>---------------------   17.13 %
-TypeScript   2 mins          >>-----------------------   09.01 %
-Solidity     2 mins          >>-----------------------   08.55 %
+Markdown   7 mins          >>>>>>>>>>>>>------------   51.54 %
+YAML       5 mins          >>>>>>>>>----------------   36.23 %
+JSON       1 min           >>>----------------------   10.78 %
+Solidity   0 secs          -------------------------   01.45 %
 ```
 
 <!--END_SECTION:waka-->

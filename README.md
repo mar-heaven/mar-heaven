@@ -45,12 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-Markdown   7 mins          >>>>>>>>>>>>>------------   51.54 %
-YAML       5 mins          >>>>>>>>>----------------   36.23 %
-JSON       1 min           >>>----------------------   10.78 %
-Solidity   0 secs          -------------------------   01.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

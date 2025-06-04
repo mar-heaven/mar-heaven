@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2025 - To: 02 June 2025
+From: 27 May 2025 - To: 03 June 2025
 
-Go                16 hrs 5 mins   >>>>>>>>>>>>>>>>>>-------   73.33 %
-YAML              3 hrs 46 mins   >>>>---------------------   17.18 %
-TypeScript        1 hr 4 mins     >------------------------   04.92 %
-Markdown          44 mins         >------------------------   03.41 %
-protobuf          5 mins          -------------------------   00.41 %
+Go                14 hrs 12 mins  >>>>>>>>>>>>>>>>>>>------   77.52 %
+YAML              2 hrs 31 mins   >>>----------------------   13.76 %
+TypeScript        1 hr 4 mins     >------------------------   05.89 %
+Markdown          15 mins         -------------------------   01.43 %
+protobuf          5 mins          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->

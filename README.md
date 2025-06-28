@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 20 June 2025 - To: 27 June 2025
 
-Go                6 hrs 46 mins   >>>>>>>>>>>>>>>>>--------   66.02 %
-YAML              2 hrs 44 mins   >>>>>>>------------------   26.67 %
-Makefile          19 mins         >------------------------   03.22 %
-Protocol Buffer   11 mins         -------------------------   01.88 %
-Other             8 mins          -------------------------   01.38 %
+Go                8 hrs 31 mins   >>>>>>>>>>>>>>>>>>>------   77.01 %
+YAML              1 hr 39 mins    >>>>---------------------   14.93 %
+Makefile          30 mins         >------------------------   04.54 %
+Protocol Buffer   11 mins         -------------------------   01.74 %
+Other             8 mins          -------------------------   01.28 %
 ```
 
 <!--END_SECTION:waka-->

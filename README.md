@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 13 August 2025 - To: 20 August 2025
 
-Go               14 hrs 21 mins  >>>>>>>>>>>>>>>>>--------   69.35 %
-textmate         3 hrs 17 mins   >>>>---------------------   15.91 %
-YAML             2 hrs 11 mins   >>>----------------------   10.58 %
-Makefile         14 mins         -------------------------   01.19 %
-Markdown         12 mins         -------------------------   00.97 %
+Go               14 hrs 53 mins  >>>>>>>>>>>>>>>>>>>>-----   78.14 %
+YAML             2 hrs 9 mins    >>>----------------------   11.28 %
+textmate         1 hr 24 mins    >>-----------------------   07.36 %
+Makefile         14 mins         -------------------------   01.28 %
+Markdown         12 mins         -------------------------   01.09 %
 ```
 
 <!--END_SECTION:waka-->

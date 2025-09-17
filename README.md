@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Go                   24 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.15 %
-YAML                 2 hrs 14 mins   >>-----------------------   08.31 %
-JSON                 26 mins         -------------------------   01.66 %
-Protocol Buffer      5 mins          -------------------------   00.37 %
-SQL                  4 mins          -------------------------   00.25 %
+Go                   23 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>----   83.15 %
+YAML                 3 hrs 12 mins   >>>----------------------   11.48 %
+Makefile             40 mins         >------------------------   02.42 %
+JSON                 33 mins         >------------------------   02.01 %
+Protocol Buffer      6 mins          -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->

@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Golang                   25 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>-----   80.75 %
-YAML                 3 hrs 22 mins   >>>----------------------   10.67 %
-Makefile             56 mins         >------------------------   02.96 %
-textmate             55 mins         >------------------------   02.94 %
-JSON                 29 mins         -------------------------   01.55 %
+Go                   21 hrs 3 mins   >>>>>>>>>>>>>>>>>>>------   76.49 %
+YAML                 2 hrs 55 mins   >>>----------------------   10.65 %
+textmate             1 hr 32 mins    >------------------------   05.58 %
+Makefile             47 mins         >------------------------   02.85 %
+JSON                 39 mins         >------------------------   02.38 %
 ```
 
 <!--END_SECTION:waka-->

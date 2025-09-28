@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-Go                   17 hrs 39 mins  >>>>>>>>>>>>>>>>>>>------   76.81 %
-YAML                 3 hrs 17 mins   >>>>---------------------   14.34 %
-Markdown             36 mins         >------------------------   02.67 %
-textmate             28 mins         >------------------------   02.06 %
-SQL                  23 mins         -------------------------   01.70 %
+Go                   12 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>-----   79.35 %
+YAML                 2 hrs 5 mins    >>>----------------------   13.52 %
+Markdown             34 mins         >------------------------   03.76 %
+SQL                  12 mins         -------------------------   01.37 %
+Makefile             10 mins         -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->

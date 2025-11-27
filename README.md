@@ -45,13 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Go               2 hrs 2 mins    >>>>>>>>>>>>>>>>>>-------   70.36 %
-Solidity         26 mins         >>>>---------------------   15.44 %
-YAML             17 mins         >>>----------------------   10.05 %
-textmate         3 mins          >------------------------   02.23 %
-Text             2 mins          -------------------------   01.63 %
+YAML     15 mins         >>>>>>>>>>>>>------------   51.62 %
+Go       14 mins         >>>>>>>>>>>>-------------   48.24 %
+go.mod   0 secs          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->

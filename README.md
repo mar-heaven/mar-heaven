@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Go               2 hrs 27 mins   >>>>>>>>>>---------------   39.78 %
-Solidity         1 hr 38 mins    >>>>>>>------------------   26.51 %
-Text             1 hr 21 mins    >>>>>--------------------   21.96 %
-YAML             23 mins         >>-----------------------   06.42 %
-TypeScript       8 mins          >------------------------   02.30 %
+Go               1 hr 55 mins    >>>>>>>>>>>>-------------   46.32 %
+Solidity         1 hr 13 mins    >>>>>>>------------------   29.57 %
+Text             26 mins         >>>----------------------   10.61 %
+YAML             19 mins         >>-----------------------   07.88 %
+TypeScript       6 mins          >------------------------   02.80 %
 ```
 
 <!--END_SECTION:waka-->

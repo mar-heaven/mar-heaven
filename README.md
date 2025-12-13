@@ -45,13 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Go             3 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.77 %
-SQL            12 mins         >------------------------   05.58 %
-YAML           7 mins          >------------------------   03.23 %
-Solidity       2 mins          -------------------------   01.20 %
-Text           0 secs          -------------------------   00.22 %
+Go             1 hr 21 mins    >>>>>>>>>>>>>>>>>>>>>>>--   91.97 %
+YAML           6 mins          >>-----------------------   06.80 %
+Solidity       1 min           -------------------------   01.22 %
+Shell Script   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->

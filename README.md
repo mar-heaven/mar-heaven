@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 15 January 2026
+From: 09 January 2026 - To: 16 January 2026
 
-Go               39 mins         >>>>>>>>>>>>>>>>>--------   69.41 %
-YAML             10 mins         >>>>>--------------------   18.68 %
-Text             6 mins          >>>----------------------   11.22 %
-GitIgnore file   0 secs          -------------------------   00.67 %
-textmate         0 secs          -------------------------   00.02 %
+Go               32 mins         >>>>>>>>>>>>>>>>>--------   69.64 %
+YAML             7 mins          >>>>---------------------   16.82 %
+Text             6 mins          >>>----------------------   13.38 %
+GitIgnore file   0 secs          -------------------------   00.16 %
+Shell Script     0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->

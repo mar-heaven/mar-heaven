@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-JavaScript       2 hrs 16 mins         >>>>>>>------------------   29.53 %
-Other            1 hr 41 mins          >>>>>>-------------------   22.01 %
-Go               1 hr 25 mins          >>>>>--------------------   18.47 %
-JSON             55 mins               >>>----------------------   12.09 %
-Markdown         53 mins               >>>----------------------   11.61 %
+JavaScript       2 hrs 16 mins         >>>>>>>------------------   28.47 %
+Other            1 hr 41 mins          >>>>>--------------------   21.23 %
+Go               1 hr 41 mins          >>>>>--------------------   21.09 %
+JSON             55 mins               >>>----------------------   11.66 %
+Markdown         49 mins               >>>----------------------   10.38 %
 ```
 
 <!--END_SECTION:waka-->
